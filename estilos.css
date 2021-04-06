@@ -1,0 +1,169 @@
+* {
+margin:0;
+padding:0;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+img {
+    height:200px;
+    width: 350px;
+    margin-left: 500px;
+    display: inline-block;
+}
+body {
+    background-color: #E5E5E5;
+}
+.menu{
+    background-color:#111111;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    margin-left: 500px;
+    margin-right: 415px;
+    margin-top: 5px;
+    }
+.menu ul{
+    list-style: none;
+    margin: 0px;;
+    padding: 0px;
+    display: inline-block;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    color:white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px; 
+}
+.menu ul li a:hover {
+    background-color:#B2B1B1;
+}
+.objetivo{
+    background-color: #99BBCC;
+    margin-left: 120px;
+    margin-right: 100px;
+    line-height: 1.7;
+    padding: 20px;
+    text-align: justify;
+}
+h1{
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 15px;  
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 20px;   
+}
+.autoras {
+    background-color:#99BBCC;
+    margin-right: 80px;
+    line-height: 1.6;
+    width: 70%;
+    float: right;
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 100px;
+    
+}
+h3 {
+    margin-left: 20px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+aside{
+    float: left;
+    width: 80px;
+    height: 80px;
+    width: 15%;  
+}
+.fotos {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 180px;
+    margin-left: 50px;   
+}
+.fotos:hover {
+    transform:scale(0.9);
+}
+.fotos{
+    transition: all 0.5s ease;
+}
+footer{
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 150px;
+}
+.recomendacion{
+    background-color:#668899;
+    margin-right: 80px;
+    margin-left: 120px;
+    line-height: 1.6;
+    
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+ul, li{
+    list-style-type: none;
+    
+
+}
+
+.listas{
+    float: left;
+    width: 50%;
+}
+
+
+
+.pie{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.visita{
+    text-decoration: none;
+    color: white;
+    margin-left: 60px;
+    padding-top: 30px;
+}
+.redes li{
+    display: inline;
+    
+}
+.redes{
+    width: 20%;
+}
+.facebook{
+    width: 35px;
+    height: 35px; 
+    }
+
+.insta{
+    width: 35px;
+    height: 35px; 
+  
+}
+.youtube{
+    width: 35px;
+    height: 35px; 
+    
+    }
+
+.insta:hover {
+    transform:scale(0.9);
+    transition: all 0.5s ease;
+}
+.facebook:hover {
+    transform:scale(0.9);
+    transition: all 0.5s ease;
+}
+.youtube:hover {
+    transform:scale(0.9);
+    transition: all 0.5s ease;
+}
+
+
