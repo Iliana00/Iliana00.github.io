@@ -116,12 +116,7 @@ h3 {
     color: white;
     text-shadow: 2px 2px 4px #000000;
 }
-aside{
-   
-    width: 80px;
-    height: 80px;
-     
-}
+
 .fotos {
     display: inline-block;
     width: 200px;
@@ -174,7 +169,7 @@ footer{
 }
 .formulario{
     background-color: aqua;
-    margin: 0 100px;
+    
 }
 .redes li{
     display: inline;
