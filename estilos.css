@@ -135,12 +135,7 @@ aside{
 .fotos{
     transition: all 0.5s ease;
 }
-footer{
-    background-color: black;
-    color: white;
-    clear: both;
-    height: 150px;
-}
+
 .recomendacion{
     background-color:#668899;
     margin-right: 80px;
@@ -161,9 +156,12 @@ ul, li{
     float: left;
     width: 50%;
 }
-
-
-
+footer{
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 180px;
+}
 .pie{
     margin-left: 50px;
     padding-top: 30px;
@@ -173,6 +171,10 @@ ul, li{
     color: white;
     margin-left: 60px;
     padding-top: 30px;
+}
+.formulario{
+    background-color: aqua;
+    margin: 0 100px;
 }
 .redes li{
     display: inline;
@@ -184,8 +186,7 @@ ul, li{
 .facebook{
     width: 35px;
     height: 35px; 
-    }
-
+}
 .insta{
     width: 35px;
     height: 35px; 
@@ -195,8 +196,7 @@ ul, li{
     width: 35px;
     height: 35px; 
     
-    }
-
+}
 .insta:hover {
     transform:scale(0.9);
     transition: all 0.5s ease;
