@@ -51,7 +51,7 @@ box-sizing: border-box;
 img {
     height:200px;
     width: 350px;
-    margin-left: 500px;
+    
     display: inline-block;
 }
 body {
@@ -84,8 +84,8 @@ body {
 }
 .objetivo{
     background-color: #99BBCC;
-    margin-left: 120px;
-    margin-right: 100px;
+    
+    
     line-height: 1.7;
     padding: 20px;
     text-align: justify;
@@ -121,8 +121,8 @@ h3 {
     display: inline-block;
     width: 200px;
     height: 200px;
-    margin-bottom: 180px;
-    margin-left: 50px;   
+    
+       
 }
 .fotos:hover {
     transform:scale(0.9);
@@ -156,7 +156,7 @@ footer{
     color: white;
     clear: both;
     height: 180px;
-    width: 100%;
+    
 }
 .pie{
     margin-left: 50px;
@@ -167,10 +167,6 @@ footer{
     color: white;
     margin-left: 60px;
     padding-top: 30px;
-}
-.formulario{
-    background-color: aqua;
-    
 }
 .redes li{
     display: inline;
