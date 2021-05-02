@@ -48,12 +48,12 @@ box-sizing: border-box;
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }  
-img {
-    height:200px;
+ .logo{
+    height: 200px;
     width: 350px;
-    
+    margin-left: 500px;
     display: inline-block;
-}
+ }
 body {
     background-color: #E5E5E5;
 }
@@ -83,9 +83,9 @@ body {
     background-color:#B2B1B1;
 }
 .objetivo{
-    background-color: #99BBCC;
-    
-    
+    background-color: #668899;
+    margin-right: 80px;
+    margin-left: 120px;
     line-height: 1.7;
     padding: 20px;
     text-align: justify;
@@ -159,47 +159,33 @@ footer{
     
 }
 .pie{
+    font-size: x-large;
     margin-left: 50px;
     padding-top: 30px;
 }
 .visita{
     text-decoration: none;
-    color: white;
     margin-left: 60px;
     padding-top: 30px;
 }
-.redes li{
-    display: inline;
-    
+a{
+    color: #668899;
 }
-.redes{
-    width: 20%;
+button{
+   font-size: 35px;
+   color: #668899;
+   background-color: black;
+   border: none;
+   padding: 5px;
+   float: right;
 }
-.facebook{
-    width: 35px;
-    height: 35px; 
-}
-.insta{
-    width: 35px;
-    height: 35px; 
-  
-}
-.youtube{
-    width: 35px;
-    height: 35px; 
-    
-}
-.insta:hover {
+button:hover {
     transform:scale(0.9);
     transition: all 0.5s ease;
 }
-.facebook:hover {
-    transform:scale(0.9);
-    transition: all 0.5s ease;
-}
-.youtube:hover {
-    transform:scale(0.9);
-    transition: all 0.5s ease;
-}
+.legalidad{
+    text-align: center;
+    }
+
 
 
